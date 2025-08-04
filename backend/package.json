@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "node-rsa": "^1.1.1",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
